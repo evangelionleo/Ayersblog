@@ -42,7 +42,7 @@ Participate in one provincial project development(2020-2021)恕不详陈
 undergraduate intern for multi lab of UJN,2019-2021 
 
 
-## Specialisation
+## Speciality
 
 ---
 - NLP
