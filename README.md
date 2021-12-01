@@ -1,15 +1,17 @@
  Personal blog backend under development ver.0.1.0
 
-想了很久 终于有时间重构博客了
-
-推免结束后,想要重新开始，和过去告别.顺便打磨一下自己的技术
-
-少熬夜,work-life balance~
-
 # Ayerlans
 
 a *programmer*
 
+## Contact
+---
+- Address
+ - 336 Nan Xinzhuang West Rd,Jinan,Shandong, China
+- Site
+ - https://www.ayerlans.cn/
+- E-mail
+ -  ayerlans@foxmail.com  
 ## Education
 
 ---
@@ -34,4 +36,16 @@ School of information sciences and engineering,University of Jinan
 Participate in one Key R&D Program of Shandong Province(2019-2020)恕不详陈
 
 Participate in one provincial project development(2020-2021)恕不详陈
+
+## Experience
+---
+undergraduate intern for multi lab of UJN,2019-2021 
+
+
+## Specialisation
+
+---
+- NLP
+- Multi-platform development (Java/flutter)
+---
 
