@@ -39,7 +39,7 @@ Participate in one provincial project development(2020-2021)恕不详陈
 
 ## Experience
 ---
-undergraduate intern for multi lab of UJN,2019-2021 
+undergraduate intern for Multiple laboratories of UJN,2019-2021 
 
 
 ## Speciality
