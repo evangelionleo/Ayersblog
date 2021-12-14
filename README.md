@@ -45,7 +45,7 @@ undergraduate intern for Multiple laboratories of UJN,2019-2021
 ## Speciality
 
 ---
-- NLP (NER/RE)
+- NLP (部分中文方向)
 - Multi-platform development (Java/flutter)
 ---
 
